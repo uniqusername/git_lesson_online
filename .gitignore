@@ -1,0 +1,3 @@
+# ignore logs and .idea directories
+**/logs
+**/.idea
