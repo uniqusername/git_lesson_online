@@ -1,5 +1,5 @@
 def main() -> None:
-    print("Hey hey hey, i'm ... wait deja vu?")
+    print("TEST VERSION")
 
 
 if __name__ == "__main__":
